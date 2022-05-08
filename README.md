@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá, me chamo Rafael Martínez e sou apaixonado em desenvolver soluões criativas em código!
+## Olá, me chamo Rafael Martínez e sou apaixonado em desenvolver soluções criativas em código!
 - 🌱 I’m currently learning Java (POO), Testing, JS + HTML + CSS (Front-end), infrastructure on Digital House!
 <div align="center">
   <a href="https://github.com/rafael12369">
