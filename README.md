@@ -36,7 +36,7 @@ Here are some ideas to get you started:
           
           
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQEs2PphxHGX8Q/profile-displayphoto-shrink_800_800/0/1644254254006?e=1657756800&v=beta&t=UoeqQ9Ltwi1YdH4H0ej8lfINMHmRtgtOCX22BFf1jT4">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media-exp2.licdn.com/dms/image/C4D03AQGnnH1f55ciOw/profile-displayphoto-shrink_800_800/0/1656276159518?e=1662595200&v=beta&t=VdxjZcdSAf0qTbH0SJqLa1FGQzWnj6-hqJB3OBxuVCw">
 </div>
   
   ##
