@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Olá, me chamo Rafael Martínez e sou apaixonado em desenvolver soluções criativas em código!
-- 🌱 I’m currently learning Back-end Java, Quality and Testing (QA), JS + HTML + CSS (Front-end), infrastructure (Docker + AWS).
+## Olá, me chamo Rafael Martínez e sou apaixonado em Engenharia de Qualidade de Software!
+- 🌱 I’m currently learning Back-end Java, Quality and Testing (QA), JS + HTML + CSS (Front-end), infrastructure (Docker + AWS) and Agile.
 - 👯 I’m looking to collaborate on automated tests projects...
 - ⚡ I’m inspired by QA engineer <3
 <div align="center">
@@ -30,10 +30,10 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
   <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Rafa-Vagrant" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" />
+  <img align="center" alt="Rafa-Docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/docker-original.svg" />
+  <img align="center" alt="Rafa-Selenium" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/selenium-original.svg" />
           
           
           
