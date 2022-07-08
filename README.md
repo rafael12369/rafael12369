@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Olá, me chamo Rafael Martínez e sou apaixonado em Engenharia de Qualidade de Software!
-- 🌱 My tech stack: Back-end Java; Database MySQL; Quality and Testing (QA) Selenium, Cucumber, Robot Framework, Sikuli, Cypress, Appium; Front-end JS, HTML, CSS; infrastructure Docker, AWS and Agile.
+- 🌱 My tech stack: Quality and Testing (QA) Selenium, Cucumber, Robot Framework, Sikuli, Cypress, Appium; Back-end Java; Database MySQL; Front-end JS, HTML, CSS; infrastructure Docker, AWS and Agile Scrum.
 - 👯 I’m looking to collaborate on automated tests projects...
 - ⚡ I’m inspired by QA engineer <3
 <div align="center">
