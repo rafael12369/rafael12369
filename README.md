@@ -31,9 +31,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Rafa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Rafa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="Rafa-Docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/docker-original.svg" />
-  <img align="center" alt="Rafa-Selenium" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/selenium-original.svg" />
+  <img align="center" alt="Rafa-Selenium" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/selenium-original.svg"/>
           
           
           
