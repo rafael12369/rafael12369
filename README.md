@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Back-end Java, Quality and Testing (QA), JS + HTML + CSS (Front-end), infrastructure (Docker + AWS).
+- 🌱 I’m currently learning Back-end Java; Quality and Testing (QA) Selenium, Cucumber, Robot Framework, Sikuli, Cypress, Appium; Front-end JS, HTML, CSS; infrastructure Docker, AWS.
 - 👯 I’m looking to collaborate on automated tests projects...
 - ⚡ I’m inspired by QA engineer
 - 💬 Ask me about ...
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Olá, me chamo Rafael Martínez e sou apaixonado em Engenharia de Qualidade de Software!
-- 🌱 I’m currently learning Back-end Java, Quality and Testing (QA), JS + HTML + CSS (Front-end), infrastructure (Docker + AWS) and Agile.
+- 🌱 My tech stack: Back-end Java; Database MySQL; Quality and Testing (QA) Selenium, Cucumber, Robot Framework, Sikuli, Cypress, Appium; Front-end JS, HTML, CSS; infrastructure Docker, AWS and Agile.
 - 👯 I’m looking to collaborate on automated tests projects...
 - ⚡ I’m inspired by QA engineer <3
 <div align="center">
