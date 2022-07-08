@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## Olá, me chamo Rafael Martínez e sou apaixonado em desenvolver soluções criativas em código!
-- 🌱 I’m currently learning Java (POO), Testing, JS + HTML + CSS (Front-end), infrastructure on Digital House!
+- 🌱 I’m currently learning Back-end Java, Quality and Testing (QA), JS + HTML + CSS (Front-end), infrastructure (Docker + AWS).
+- 👯 I’m looking to collaborate on automated tests projects...
+- ⚡ I’m inspired by QA engineer <3
 <div align="center">
   <a href="https://github.com/rafael12369">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael12369&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
