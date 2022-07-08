@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="Rafa-Docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img align="center" alt="Rafa-Selenium" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
-  <img align="center" alt="Rafa-c" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg"/>        
+  <img align="center" alt="Rafa-c" height="30" width="40"src="https://icongr.am/devicon/cucumber-plain.svg?size=128&color=currentColor"/>        
           
           
  
